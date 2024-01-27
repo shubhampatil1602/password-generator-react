@@ -1,4 +1,4 @@
-# <a href='https://password-generator-react-jet.vercel.app/'>Preview</a>
+# <a href='https://password-generator-react-jet.vercel.app/'>Live</a>
 
 ## Learnings:
 
